@@ -1,0 +1,7 @@
+.idea/
+vendor/
+*.import.sql
+*_import.sql
+.env
+.env-prod
+REVISION

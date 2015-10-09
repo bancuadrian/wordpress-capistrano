@@ -1,0 +1,19 @@
+{
+  "name": "WordPress/local-development",
+  "description": "Deploying with WordPress",
+  "authors": [
+    {
+      "name": "Bancu Adrian",
+      "email": "bancu.adrian@me.com"
+    }
+  ],
+  "require": {
+    "vlucas/phpdotenv": "~1.1"
+  },
+  "autoload" : {
+    "psr-4" : {
+    },
+    "files" : [
+    ]
+  }
+}

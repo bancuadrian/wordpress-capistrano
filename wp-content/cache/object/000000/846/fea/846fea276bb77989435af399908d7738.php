@@ -1,0 +1,1 @@
+JzV<?php exit; ?>a:1:{s:7:"content";a:10:{s:21:"dismissed_update_core";b:1;s:6:"WPLANG";b:1;s:24:"theme_mods_twentyfifteen";b:1;s:13:"current_theme";b:1;s:19:"mods_Twenty Fifteen";b:1;s:12:"widget_pages";b:1;s:15:"widget_calendar";b:1;s:16:"widget_tag_cloud";b:1;s:15:"widget_nav_menu";b:1;s:14:"theme_switched";b:1;}}
